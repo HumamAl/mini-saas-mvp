@@ -2,7 +2,7 @@ Hi,
 
 Production-ready mini SaaS with RBAC, real-time updates, and full CRUD — built a working version to show my approach:
 
-**Built this for your project:** {VERCEL_URL}
+**Built this for your project:** https://mini-saas-mvp.vercel.app
 
 TaskForge covers role-based access (Admin/Manager/Member), sprint management, advanced filtering with search and pagination, and a live dashboard with data viz. Documented, typed, deployable.
 
